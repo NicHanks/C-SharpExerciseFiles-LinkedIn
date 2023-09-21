@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v/MTxYoYkV49bAaAPhL3N2HSVkDn+TsbpdHhA3ZLVai9MLBQs1gW5P2C1Gj8KPCxstg3t9tj5S/Tg8WnlchuFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicha\\Desktop\\ExerciseFiles\\Start\\Overview\\Comments\\Comments.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicha\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\nicha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\nicha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\nicha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

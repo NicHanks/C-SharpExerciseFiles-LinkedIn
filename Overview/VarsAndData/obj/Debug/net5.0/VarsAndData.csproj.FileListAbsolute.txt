@@ -1,0 +1,15 @@
+C:\Users\nicha\Desktop\ExerciseFiles\start\overview\VarsAndData\obj\Debug\net5.0\VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicha\Desktop\ExerciseFiles\start\overview\VarsAndData\obj\Debug\net5.0\VarsAndData.AssemblyInfoInputs.cache
+C:\Users\nicha\Desktop\ExerciseFiles\start\overview\VarsAndData\obj\Debug\net5.0\VarsAndData.AssemblyInfo.cs
+C:\Users\nicha\Desktop\ExerciseFiles\start\overview\VarsAndData\obj\Debug\net5.0\VarsAndData.csproj.CoreCompileInputs.cache
+C:\Users\nicha\Desktop\ExerciseFiles\start\overview\VarsAndData\bin\Debug\net5.0\VarsAndData.exe
+C:\Users\nicha\Desktop\ExerciseFiles\start\overview\VarsAndData\bin\Debug\net5.0\VarsAndData.deps.json
+C:\Users\nicha\Desktop\ExerciseFiles\start\overview\VarsAndData\bin\Debug\net5.0\VarsAndData.runtimeconfig.json
+C:\Users\nicha\Desktop\ExerciseFiles\start\overview\VarsAndData\bin\Debug\net5.0\VarsAndData.runtimeconfig.dev.json
+C:\Users\nicha\Desktop\ExerciseFiles\start\overview\VarsAndData\bin\Debug\net5.0\VarsAndData.dll
+C:\Users\nicha\Desktop\ExerciseFiles\start\overview\VarsAndData\bin\Debug\net5.0\VarsAndData.pdb
+C:\Users\nicha\Desktop\ExerciseFiles\start\overview\VarsAndData\obj\Debug\net5.0\VarsAndData.dll
+C:\Users\nicha\Desktop\ExerciseFiles\start\overview\VarsAndData\obj\Debug\net5.0\refint\VarsAndData.dll
+C:\Users\nicha\Desktop\ExerciseFiles\start\overview\VarsAndData\obj\Debug\net5.0\VarsAndData.pdb
+C:\Users\nicha\Desktop\ExerciseFiles\start\overview\VarsAndData\obj\Debug\net5.0\VarsAndData.genruntimeconfig.cache
+C:\Users\nicha\Desktop\ExerciseFiles\start\overview\VarsAndData\obj\Debug\net5.0\ref\VarsAndData.dll
